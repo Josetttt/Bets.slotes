@@ -1,0 +1,2 @@
+# Bets.slotes
+BETS.slots
